@@ -6,7 +6,7 @@
 [![AI](https://img.shields.io/badge/AI-Rule--based%20%2B%20LLM%20gateway-111827.svg)](#)
 
 <!-- Optional hero image -->
-![Architecture cover](./gcp_backend_snufi.jpg)
+![Architecture cover](./gcp_backend_snufi.png)
 
 > **FE stack:** SEO‑friendly **WordPress** + fully customizable, cross‑platform **Flutter** apps.  
 > **BE focus:** Firebase‑centric with a large **Express** app for business logic and automation.
@@ -14,7 +14,7 @@
 ---
 
 ## 🗺️ Architecture (at a glance)
-![GCP backend architecture](./gcp_backend_snufi.pdf)
+**View the original AWS design:** 👉 [GCP backend architecture](./gcp_backend_snufi.pdf)
 
 - **Firebase Auth** for users and admins; **Firestore** as the operational DB; **Cloud Storage** for assets.
 - **Cloud Functions (Node.js + Express)** host core domain logic:
