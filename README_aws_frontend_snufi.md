@@ -3,7 +3,7 @@
 [![Cloud: AWS](https://img.shields.io/badge/Cloud-AWS-FF9900.svg)](#)
 
 <!-- Optional hero image -->
-![Architecture cover](./aws_frontend_snufi.jpg)
+![Architecture cover](./aws_frontend_snufi.png)
 
 ## 📄 Architecture Artifact (PDF)
 **View the original AWS design:** 👉 [AWS FRONTEND](./aws_frontend_snufi.pdf)
